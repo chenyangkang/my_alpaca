@@ -1,0 +1,5 @@
+BASE_URL = 'https://paper-api.alpaca.markets'
+API_KEY = 'PK3NTETMV8ZG02I8E399'
+SECRET_KEY = 'flcAxOGh1ALeaWsRULnOhoUFzsB3K7m4oo6agNmO'
+CLIENT_ID = '9be4a7fb4a9d5c2bd25d879de7285ce8'
+CLIENT_SECRET = '96fc9ae022cd2373e545d805ccc90a021a1af4c3'
